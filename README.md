@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My husband made me learn coding so here I am 🤪
+My husband made me learn coding so here I am 🤪 then stopped immediately after. So enjoy my only github contribution
 
 ![man poof](./man%20poof.png)
 
